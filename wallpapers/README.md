@@ -1,2 +1,2 @@
 # What this section is used for
-wallpaper-able pictures
+ratio-nal, wallpaper-able pictures
