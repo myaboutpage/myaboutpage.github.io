@@ -1,5 +1,5 @@
 # What this section is used for
-Boxy, characteristic picture   
+boxy, characteristic picture   
 
 ## robots.txt
 background-able picture
