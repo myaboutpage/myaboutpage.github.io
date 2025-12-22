@@ -1,3 +1,3 @@
 # What this section is used for
-Long, ultrawide picture   
-Boxy picture, just like friendlist
+long, ultrawide picture   
+boxy picture, just like friendlist
